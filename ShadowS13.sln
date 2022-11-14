@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowS13", "ShadowS13.csproj", "{E3215AD7-0E11-4238-A4ED-E81776D8435F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3215AD7-0E11-4238-A4ED-E81776D8435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3215AD7-0E11-4238-A4ED-E81776D8435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3215AD7-0E11-4238-A4ED-E81776D8435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3215AD7-0E11-4238-A4ED-E81776D8435F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FC37E5-86F3-4312-B156-04D8C8EAF910}
+	EndGlobalSection
+EndGlobal
